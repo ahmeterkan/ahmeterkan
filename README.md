@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmeterkan48" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeterkan48?logo=twitter&style=for-the-badge" alt="ahmeterkan48" /></a> </p>
 
-- 🔭 I’m currently working on [Netyazılım](netyazilim.com.tr)
+- 🔭 I am currently looking for a job
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

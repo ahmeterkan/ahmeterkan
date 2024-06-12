@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ahmet ERKAN</h1>
-<h3 align="center">I'm a Software Engineer</h3>
+<h1 align="center">Welcome !</h1>
+<h3 align="center">
+  I am Ahmet Erkan, a software engineer immersed in the world of technology and innovation. Specializing in both backend and frontend development, I have actively contributed to various projects. I graduated from Manisa Celal Bayar University with a degree in Software Engineering and studied web design in technical high school. Through my roles as a software engineer and intern at various companies, I have gained valuable experience. On my website, you can explore my projects, experiences, and insights into the software world. For more details, feel free to check my resume or contact me.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeterkan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeterkan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmeterkan" alt="ahmeterkan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmeterkan48" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeterkan48?logo=twitter&style=for-the-badge" alt="ahmeterkan48" /></a> </p>
-
-- 🔭 I am currently looking for a job
-
-- 🌱 I’m currently learning **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
